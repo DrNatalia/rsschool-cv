@@ -3,7 +3,7 @@ __Nalatia Zaripova__ <br>
 ---
 
 
-Contact information:
+Contact information: <br>
 
 - ![E-mail](Shayfutdinova1995@mail.ru)
 - ![GitHub](https://github.com/DrNatalia)
@@ -12,9 +12,9 @@ _About me:_ <br>
 I have a higher education in the specialty “Pediatrics” and a residency in the specialty “Allergology-immunology”. I have been working as a doctor for more than 4 years and have extensive experience working with different teams in medicine.
 One of my strengths is the ability to multitask. I acquired this skill through performing different tasks every day. During residency training, I combined working as a doctor and learning to program.
 Also, my independent competitor is systems thinking: when I set myself a task, I can prioritize it, divide it into subtasks, evaluate tools, source of information, work time and further steps to implement the project. This skill was acquired while working with patients, since each patient was important to me, which needed to be resolved efficiently.
-Thanks to my openness and good communication skills with people of different types, I am able to resolve various issues, including conflicts, and always find new interesting projects for myself. I can achieve results both by working in a team and by doing independent work. There is a great desire to grow and grow professionally in IT project management.
+Thanks to my openness and good communication skills with people of different types, I am able to resolve various issues, including conflicts, and always find new interesting projects for myself. I can achieve results both by working in a team and by doing independent work. There is a great desire to grow and grow professionally in IT project management. <br>
 ---
- _Skils:_
+ _Skils:_ <br>
 - CSS3, HTML5
 - Java Script
 - Git, GitHub
