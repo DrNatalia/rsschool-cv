@@ -17,21 +17,23 @@
 ---
 5. *Example code:*
 ``` 
-$function countUser(arg_1, arg_2, arg_3){
-    $if(arg_3 === 1){
-    $    let S = arg_1 * arg_2
-    $    return S
-    $}
-    $else if(arg_3 === 2){
-    $    let p = 2 * (arg_1 + arg_2)
-    $    return p
-    $}
-    $else{
-    $    return false
-    $}
+    
+function countUser(arg_1, arg_2, arg_3){
+    if(arg_3 === 1){
+        let S = arg_1 * arg_2
+        return S
+    }
+    else if(arg_3 === 2){
+        let p = 2 * (arg_1 + arg_2)
+        return p
+    }
+    else{
+        return false
+    }
 
-$}
-$console.log(countUser(width, length, choiceCount));
+}
+console.log(countUser(width, length, choiceCount));
+
 ```
 ---
 6. https://github.com/DrNatalia/rsschool-cv
