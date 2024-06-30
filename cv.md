@@ -44,8 +44,8 @@ function arr2bin(arr){
 - Lectures on YouTube
 - RS Schools Course «JavaScript/Front-end. Stage 0» 
 - Example: 
-![CV-file](https://github.com/DrNatalia/rsschool-cv)
+![CV-file](https://github.com/DrNatalia/rsschool-cv)<br>
 ---
-I`m studies in medical universities: ISMA and KFU. 
+I`m studies in medical universities: ISMA and KFU. <br>
 ---
  My level of English is A1, which is why I often have to resort to Google translator, and I also plan to study with a tutor.
