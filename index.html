@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class="nav-menu">
+
+                <li class="nav-item">
+                    <a href="#welcome">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#education">Education</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#about-me">About me</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#skills">Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#code">Code</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact">Contact</a>
+                </li>
+                <img src="myicon.png" alt="my-icon" class="my-icon">
+        </nav>
+        </ul>
+    </header>
+
+    <main>
+        <section class="welcome" id="welcome">
+            <img src="myphoto.jpg" alt="my-photo">
+            <h1>Hello, my fullname Zaripova Natalia</h1>
+            <h3>i'm Front-End Developer</h3>
+
+
+        </section>
+        <section class="education" id="education">
+            <h3>Education: </h3>
+            <ul>
+                <li>2014 - 2020 ISMA </li>
+                <li>2021 - 2023 KFU</li>
+                <li>2024 - RS Schools Course «JavaScript/Front-end» </li>
+            </ul>
+
+        </section>
+
+        <section class="about-me" id="about-me">
+            <h2>About me: </h2>
+            <p>I have a higher education in the specialty “Pediatrics” and a residency in the specialty
+                “Allergology-immunology”. I have been working as a doctor for more than 4 years and have extensive
+                experience working with different teams in medicine.
+                One of my strengths is the ability to multitask. I acquired this skill through performing different
+                tasks every day. During residency training, I combined working as a doctor and learning to program.
+                Also, my independent competitor is systems thinking: when I set myself a task, I can prioritize it,
+                divide it into subtasks, evaluate tools, source of information, work time and further steps to
+                implement the project. This skill was acquired while working with patients, since each patient was
+                important to me, which needed to be resolved efficiently.
+                Thanks to my openness and good communication skills with people of different types, I am able to
+                resolve various issues, including conflicts, and always find new interesting projects for myself. I
+                can achieve results both by working in a team and by doing independent work. There is a great desire
+                to grow and grow professionally in IT project management.
+            </p>
+        </section>
+        <section class="skills" id="skills">
+
+            <h2>Skills:</h2>
+            <ul>
+                <li>CSS3, HTML5</li>
+                <li>Java Script</li>
+                <li>Git, GitHub</li>
+                <li>VC Code</li>
+            </ul>
+        </section>
+        <section class="code" id="code">
+            <h2>Example code: </h2>
+            <p>Task: Given an array add all the number elements and return the binary equivalent of that sum; to
+                make the code bullet proof anything else than a number should be added as 0 since it can't be added.
+            </p>
+            <pre id="code">
+                <code>
+                    <span>function arr2bin(arr){</span> 
+                        <span>var sum = 0;</span>
+                        <span>arr.forEach(function(num){</span>
+                        <span>if(typeof num === 'number'){</span>
+                        <span>sum += num;</span>
+                             }
+                            });
+                        <span>return sum.toString(2);</span>
+                        };
+                </code>
+            </pre>
+        </section>
+        <section class="contact" id="contact">
+            <h3>Contact:</h3>
+            <p>E-meil:
+                <a href="Shayfutdinova1995@mail.ru">Shayfutdinova1995@mail.ru</a>
+            </p>
+            <p>Discord: DrNatalia (@DrNatalia)</p>
+            <a href="https://t.me/drShaifutdinova">Telegram</a>
+            <p>Address: Kazan, Russia</p>
+
+        </section>
+    </main>
+
+    <footer>
+        <a class="github-icon" href="https://github.com/DrNatalia">
+            <img width="60" src="iconn.png" alt="GitHub icon">
+        </a>
+
+
+        <a class="rs-school-icon" href="https://github.com/rolling-scopes-school/tasks/tree/master/stage0">
+            <img width="60" src="rs.jpg" alt="rs-school-icon">
+        </a>
+    </footer>
+</body>
+
+</html>
